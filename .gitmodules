@@ -1,3 +1,6 @@
 [submodule "myomy-rails"]
 	path = myomy-rails
 	url = https://github.com/jpersons24/myomy-rails
+[submodule "myomy-react"]
+	path = myomy-react
+	url = https://github.com/jpersons24/myomy-react
