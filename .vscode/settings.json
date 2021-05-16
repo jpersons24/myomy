@@ -1,0 +1,7 @@
+{
+  "diffEditor.codeLens": true,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
