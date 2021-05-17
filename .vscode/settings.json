@@ -3,5 +3,7 @@
   "workbench.tree.renderIndentGuides": "always",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.formatOnType": true
+  "editor.fontSize": 11,
+  "files.autoSave": "afterDelay",
+  "editor.tokenColorCustomizations": null
 }
